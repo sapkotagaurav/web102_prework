@@ -43,8 +43,10 @@ body {
 }
 
 .game-img {
-    width: 100%;
+    width: 250px;
     border-radius: 5px;
+    height: 100%;
+    object-fit: contain;
     box-shadow: 0 0 10px #FFFFFF;
 }
 
